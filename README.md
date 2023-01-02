@@ -6,6 +6,8 @@ This application is a simple calendar that allows a user to enter and save event
 
 ## Application Link
 
+https://yhnguyen720.github.io/Work-Day-Scheduler/
+
 
 ## User Story
 
